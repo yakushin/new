@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+<<<<<<< HEAD
+using System System.Windows;
+=======
+using using System.Windows;
+>>>>>>> tested
+
+namespace WpfApplication2
+{
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App : Application
+    {
+    }
+}
